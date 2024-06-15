@@ -1,0 +1,2402 @@
+[
+    {
+        "image": "hard_images/1.jpg",
+        "prompt": "There is a car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/2.jpg",
+        "prompt": "There are some cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/3.jpg",
+        "prompt": "There is a football. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a football.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/4.jpg",
+        "prompt": "There is a bat. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bat.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/5.jpg",
+        "prompt": "There is a train. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a train.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/6.jpg",
+        "prompt": "There is a racket. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a racket.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/7.jpg",
+        "prompt": "There is a train. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a train.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/8.jpg",
+        "prompt": "There is a man. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a man.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/9.jpg",
+        "prompt": "There is a car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/10.jpg",
+        "prompt": "There is a metro. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a metro.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/11.jpg",
+        "prompt": "There is a ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ball.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/12.jpg",
+        "prompt": "There is a train. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a train.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/13.jpg",
+        "prompt": "There is a train. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a train.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/14.jpg",
+        "prompt": "There is a baseball bat there. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a baseball bat there.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/15.jpg",
+        "prompt": "There is a tennis racket. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis racket.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/16.jpg",
+        "prompt": "There are some spoons. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some spoons.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/17.jpg",
+        "prompt": "There is a bowling ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bowling ball.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/18.jpg",
+        "prompt": "There is a roller brush. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a roller brush.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/19.jpg",
+        "prompt": "There is a keyboard. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a keyboard.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/20.jpg",
+        "prompt": "There is a waterflow. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a waterflow.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/21.jpg",
+        "prompt": "There is a van. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a van.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/22.jpg",
+        "prompt": "There is a baseball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a baseball.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/23.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/24.jpg",
+        "prompt": "There is a white van. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a white van.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/25.jpg",
+        "prompt": "There is a chimney. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chimney.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/26.jpg",
+        "prompt": "There is a baseball bat. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a baseball bat.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/27.jpg",
+        "prompt": "There is a hat. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a hat.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/28.jpg",
+        "prompt": "There are four cyclists. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are four cyclists.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/29.jpg",
+        "prompt": "There's more than one person. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there's more than one person.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/30.jpg",
+        "prompt": "There are two kids. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two kids.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/31.jpg",
+        "prompt": "There is a moving car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a moving car.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/32.jpg",
+        "prompt": "There is someone. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/33.jpg",
+        "prompt": "There is a ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ball.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/34.jpg",
+        "prompt": "There are many people. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are many people.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/35.jpg",
+        "prompt": "There is a baseball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a baseball.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/36.jpg",
+        "prompt": "There are some scooters. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some scooters.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/37.jpg",
+        "prompt": "There are some people. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/38.jpg",
+        "prompt": "There are safety ropes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are safety ropes.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/39.jpg",
+        "prompt": "There is a person near pizza. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a person near pizza.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/40.jpg",
+        "prompt": "There is a pair of shoes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pair of shoes.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/41.jpg",
+        "prompt": "There is a subway. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a subway.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/42.jpg",
+        "prompt": "There is more than one giraffe. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is more than one giraffe.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/43.jpg",
+        "prompt": "There is a car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/44.jpg",
+        "prompt": "There is a TV remote control in the picture. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tv remote control in the picture.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/45.jpg",
+        "prompt": "There is a goblet. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a goblet.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/46.jpg",
+        "prompt": "There is a lamp. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a lamp.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/47.jpg",
+        "prompt": "There is a boy behind the girl. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boy behind the girl.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/48.jpg",
+        "prompt": "There is a cup. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/49.jpg",
+        "prompt": "There is a shower hose. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a shower hose.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/50.jpg",
+        "prompt": "There is a shoe. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a shoe.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/51.jpg",
+        "prompt": "There is a person. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a person.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/52.jpg",
+        "prompt": "There is a toy rabbit. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a toy rabbit.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/53.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/54.jpg",
+        "prompt": "There is a cup. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/55.jpg",
+        "prompt": "There are some masks. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some masks.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/56.jpg",
+        "prompt": "There is a chair. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/57.jpg",
+        "prompt": "There is a person. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a person.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/58.jpg",
+        "prompt": "There are some stools. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some stools.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/59.jpg",
+        "prompt": "There are some pillows. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some pillows.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/60.jpg",
+        "prompt": "There are some pillows. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some pillows.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/61.jpg",
+        "prompt": "There is a fire extinguisher. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a fire extinguisher.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/62.jpg",
+        "prompt": "There are some books. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some books.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/63.jpg",
+        "prompt": "There is a tennis racket. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis racket.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/64.jpg",
+        "prompt": "There are some bottles of wine. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some bottles of wine.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/65.jpg",
+        "prompt": "There is a ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ball.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/66.jpg",
+        "prompt": "There is a knife. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a knife.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/67.jpg",
+        "prompt": "There is a screen. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a screen.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/68.jpg",
+        "prompt": "There is a cat. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cat.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/69.jpg",
+        "prompt": "There are trains. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are trains.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/70.jpg",
+        "prompt": "There is an old man. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is an old man.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/71.jpg",
+        "prompt": "There is a yellow container. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a yellow container.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/72.jpg",
+        "prompt": "There is a flying disc. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a flying disc.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/73.jpg",
+        "prompt": "There is a fork. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a fork.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/74.jpg",
+        "prompt": "There is a cactus. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cactus.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/75.jpg",
+        "prompt": "There are many cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are many cars.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/76.jpg",
+        "prompt": "There is a yellow train. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a yellow train.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/77.jpg",
+        "prompt": "There are some cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/78.jpg",
+        "prompt": "There are some cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/79.jpg",
+        "prompt": "There is a electric kettle. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a electric kettle.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/80.jpg",
+        "prompt": "There are some clothes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some clothes.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/81.jpg",
+        "prompt": "There are three persons. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three persons.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/82.jpg",
+        "prompt": "There are two dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two dogs.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/83.jpg",
+        "prompt": "There are some stools. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some stools.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/84.jpg",
+        "prompt": "There are some cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/85.jpg",
+        "prompt": "There is a sink. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a sink.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/86.jpg",
+        "prompt": "There is a musical instrument. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a musical instrument.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/87.jpg",
+        "prompt": "There are some people. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/88.jpg",
+        "prompt": "There is a clothing store. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a clothing store.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/89.jpg",
+        "prompt": "There is a basketball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a basketball.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/90.jpg",
+        "prompt": "There is a bicycle. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bicycle.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/91.jpg",
+        "prompt": "There is a tennis racket. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis racket.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/92.jpg",
+        "prompt": "There is a train. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a train.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/93.jpg",
+        "prompt": "There is a comb. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a comb.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/94.jpg",
+        "prompt": "There are some flowers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some flowers.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/95.jpg",
+        "prompt": "There are some bicycles. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some bicycles.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/96.jpg",
+        "prompt": "There are some street lamps. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some street lamps.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/97.jpg",
+        "prompt": "There is a keyboard. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a keyboard.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/98.jpg",
+        "prompt": "There is a woman. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a woman.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/99.jpg",
+        "prompt": "There are some cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/100.jpg",
+        "prompt": "There is a golf club. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a golf club.",
+        "class": "hard_blur"
+    },
+    {
+        "image": "hard_images/101.jpg",
+        "prompt": "There are trucks. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some trucks.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/102.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/103.jpg",
+        "prompt": "There are street lights. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are street lights.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/104.jpg",
+        "prompt": "There are some cars. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/105.jpg",
+        "prompt": "There are some cars. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/106.jpg",
+        "prompt": "There are some people. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/107.jpg",
+        "prompt": "There are some stores. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some stores.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/108.jpg",
+        "prompt": "There are some cars. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/109.jpg",
+        "prompt": "There are some people. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/110.jpg",
+        "prompt": "There are some cars. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/111.jpg",
+        "prompt": "There are some people. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/112.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/113.jpg",
+        "prompt": "There are green space. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are green space.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/114.jpg",
+        "prompt": "There is a bus. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bus.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/115.jpg",
+        "prompt": "There is a camera. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a camera.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/116.jpg",
+        "prompt": "There is a persom. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a person.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/117.jpg",
+        "prompt": "There are cars. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are cars.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/118.jpg",
+        "prompt": "There is a bicycle. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bicycle.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/119.jpg",
+        "prompt": "There is a bicycle. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bicycle.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/120.jpg",
+        "prompt": "There is a bicycle. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bicycle.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/121.jpg",
+        "prompt": "There is a bicycle. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bicycle.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/122.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/123.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/124.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/125.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/126.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/127.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/128.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/129.jpg",
+        "prompt": "There is a boat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a boat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/130.jpg",
+        "prompt": "There is a bottle. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bottle.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/131.jpg",
+        "prompt": "There is a bottle. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bottle.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/132.jpg",
+        "prompt": "There is a bottle. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bottle.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/133.jpg",
+        "prompt": "There is a bus. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bus.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/134.jpg",
+        "prompt": "There is a bus. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bus.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/135.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/136.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/137.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/138.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/139.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/140.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/141.jpg",
+        "prompt": "There is a car. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/142.jpg",
+        "prompt": "There is a cat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/143.jpg",
+        "prompt": "There is a cat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/144.jpg",
+        "prompt": "There is a cat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/145.jpg",
+        "prompt": "There is a cat. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cat.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/146.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/147.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/148.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/149.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/150.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/151.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/152.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/153.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/154.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/155.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/156.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/157.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/158.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/159.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/160.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/161.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/162.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/163.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/164.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/165.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/166.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/167.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/168.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/169.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/170.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/171.jpg",
+        "prompt": "There is a chair. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a chair.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/172.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/173.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/174.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/175.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/176.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/177.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/178.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/179.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/180.jpg",
+        "prompt": "There is a cup. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/181.jpg",
+        "prompt": "There is a dog. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a dog.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/182.jpg",
+        "prompt": "There is a dog. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a dog.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/183.jpg",
+        "prompt": "There is a dog. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a dog.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/184.jpg",
+        "prompt": "There is a dog. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a dog.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/185.jpg",
+        "prompt": "There is a dog. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a dog.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/186.jpg",
+        "prompt": "There is a motorbike. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a motorbike.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/187.jpg",
+        "prompt": "There is a motorbike. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a motorbike.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/188.jpg",
+        "prompt": "There is a motorbike. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a motorbike.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/189.jpg",
+        "prompt": "There is a motorbike. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a motorbike.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/190.jpg",
+        "prompt": "There is a motorbike. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a motorbike.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/191.jpg",
+        "prompt": "There is a motorbike. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a motorbike.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/192.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/193.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/194.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/195.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/196.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/197.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/198.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/199.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/200.jpg",
+        "prompt": "There is someone here. Is this description correct? Just answer yes or no. If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is someone here.",
+        "class": "hard_environment"
+    },
+    {
+        "image": "hard_images/201.jpg",
+        "prompt": "There is a man. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a man.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/202.jpg",
+        "prompt": "There is a man. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a man.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/203.jpg",
+        "prompt": "There are some people. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/204.jpg",
+        "prompt": "There is a man. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a man.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/205.jpg",
+        "prompt": "There is a surfboard. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a surfboard.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/206.jpg",
+        "prompt": "There are some people. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/207.jpg",
+        "prompt": "There are some people on the bus . Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people on the bus .",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/208.jpg",
+        "prompt": "There is a driver. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a driver.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/209.jpg",
+        "prompt": "There is a man. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a man.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/210.jpg",
+        "prompt": "There is a black car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a black car.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/211.jpg",
+        "prompt": "There is a racket. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a racket.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/212.jpg",
+        "prompt": "There is a traffic sign for parking. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a traffic sign for parking.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/213.jpg",
+        "prompt": "There are people in bus. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are people in bus.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/214.jpg",
+        "prompt": "There is a driver on the red car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a driver on the red car.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/215.jpg",
+        "prompt": "There is a person in car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a person in car.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/216.jpg",
+        "prompt": "There is a nut . Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a nut .",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/217.jpg",
+        "prompt": "There is a soccer . Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a soccer .",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/218.jpg",
+        "prompt": "There is a pencil . Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pencil .",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/219.jpg",
+        "prompt": "There are people . Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are people .",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/220.jpg",
+        "prompt": "There is a gas station . Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a gas station .",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/221.jpg",
+        "prompt": "There is a bench. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bench.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/222.jpg",
+        "prompt": "There are cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are cars.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/223.jpg",
+        "prompt": "There is a tennis. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/224.jpg",
+        "prompt": "There is a tennis. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/225.jpg",
+        "prompt": "There is a ottoman. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ottoman.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/226.jpg",
+        "prompt": "There are swimsuits. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are swimsuits .",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/227.jpg",
+        "prompt": "There is a sprinkler. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a sprinkler.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/228.jpg",
+        "prompt": "There is a car. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a car.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/229.jpg",
+        "prompt": "There is a tennis ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis ball.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/230.jpg",
+        "prompt": "There is a sunglass. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a sunglass.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/231.jpg",
+        "prompt": "There is a ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ball.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/232.jpg",
+        "prompt": "There are three monkeys. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three monkeys.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/233.jpg",
+        "prompt": "There are two pandas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two pandas.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/234.jpg",
+        "prompt": "There are three giraffes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three giraffes.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/235.jpg",
+        "prompt": "There are four parrots. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are four parrots.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/236.jpg",
+        "prompt": "There are three boats. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three boats.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/237.jpg",
+        "prompt": "There are two cats. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two cats.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/238.jpg",
+        "prompt": "There are two birds. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two birds.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/239.jpg",
+        "prompt": "There are three elephants. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three elephants.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/240.jpg",
+        "prompt": "There are two lizards. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two lizards.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/241.jpg",
+        "prompt": "There are two sheep. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two sheep.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/242.jpg",
+        "prompt": "There are three zebras. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three zebras.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/243.jpg",
+        "prompt": "There are two motorcycles. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two motorcycles.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/244.jpg",
+        "prompt": "There are two giraffes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two giraffes.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/245.jpg",
+        "prompt": "There are three riders. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three riders.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/246.jpg",
+        "prompt": "There are two planes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two planes.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/247.jpg",
+        "prompt": "There are three elephants. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three elephants.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/248.jpg",
+        "prompt": "There are two tigers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two tigers.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/249.jpg",
+        "prompt": "There are two planes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two planes.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/250.jpg",
+        "prompt": "There are two dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two dogs.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/251.jpg",
+        "prompt": "There are two planes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two planes.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/252.jpg",
+        "prompt": "There are two kangroos. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two kangroos.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/253.jpg",
+        "prompt": "There are five parrots. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are five parrots.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/254.jpg",
+        "prompt": "There are three cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three cars.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/255.jpg",
+        "prompt": "There are two birds. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two birds.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/256.jpg",
+        "prompt": "There are two motorcycles. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two motorcycles.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/257.jpg",
+        "prompt": "There are three parrots. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three parrots.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/258.jpg",
+        "prompt": "There are two cats. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two cats.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/259.jpg",
+        "prompt": "There are two pandas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two pandas.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/260.jpg",
+        "prompt": "There are three cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three cars.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/261.jpg",
+        "prompt": "There are two horses. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two horses.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/262.jpg",
+        "prompt": "There are three horses. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three horses.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/263.jpg",
+        "prompt": "There are three dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three dogs.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/264.jpg",
+        "prompt": "There are three cows. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three cows.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/265.jpg",
+        "prompt": "There are three elephants. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three elephants.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/266.jpg",
+        "prompt": "There are two polar bears. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two polar bears.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/267.jpg",
+        "prompt": "There are two dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two dogs.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/268.jpg",
+        "prompt": "There are two cows. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two cows.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/269.jpg",
+        "prompt": "There are two dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two dogs.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/270.jpg",
+        "prompt": "There are five geese. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are five geese.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/271.jpg",
+        "prompt": "There are three pandas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three pandas.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/272.jpg",
+        "prompt": "There are four zebras. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are four zebras.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/273.jpg",
+        "prompt": "There are two pandas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two pandas.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/274.jpg",
+        "prompt": "There are two horses. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two horses.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/275.jpg",
+        "prompt": "There are three zebras. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three zebras.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/276.jpg",
+        "prompt": "There are three giraffes. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three giraffes.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/277.jpg",
+        "prompt": "There are two dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two dogs.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/278.jpg",
+        "prompt": "There are two bears. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two bears.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/279.jpg",
+        "prompt": "There are three lizards. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three lizards.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/280.jpg",
+        "prompt": "There are four pandas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are four pandas.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/281.jpg",
+        "prompt": "There is one person. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is one person.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/282.jpg",
+        "prompt": "There are three bulls. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three bulls.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/283.jpg",
+        "prompt": "There are three monkeys. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three monkeys.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/284.jpg",
+        "prompt": "There are two pandas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two pandas.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/285.jpg",
+        "prompt": "There are two dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two dogs.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/286.jpg",
+        "prompt": "There are three dogs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three dogs.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/287.jpg",
+        "prompt": "There are two ships. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two ships.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/288.jpg",
+        "prompt": "There are two cats. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two cats.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/289.jpg",
+        "prompt": "There are five monkeys. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are five monkeys.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/290.jpg",
+        "prompt": "There are two horses. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two horses.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/291.jpg",
+        "prompt": "There are three tigers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three tigers.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/292.jpg",
+        "prompt": "There are two rabbits. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two rabbits.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/293.jpg",
+        "prompt": "There are two rabbits. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two rabbits.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/294.jpg",
+        "prompt": "There are two parrots. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two parrots.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/295.jpg",
+        "prompt": "There are two tigers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes,there are two tigers.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/296.jpg",
+        "prompt": "There are two tigers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes,there are two tigers.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/297.jpg",
+        "prompt": "There are two horses. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two horses.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/298.jpg",
+        "prompt": "There are two roosters. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are two roosters.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/299.jpg",
+        "prompt": "There are three parrots. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three parrots.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/300.jpg",
+        "prompt": "There are three rabbits. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are three rabbits.",
+        "class": "hard_partly hidden"
+    },
+    {
+        "image": "hard_images/301.jpg",
+        "prompt": "There is a glass. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a glass.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/302.jpg",
+        "prompt": "There is a bird. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bird.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/303.jpg",
+        "prompt": "There are birds. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are birds.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/304.jpg",
+        "prompt": "There is a light switch. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a light switch.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/305.jpg",
+        "prompt": "There is a hair clip. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a hair clip.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/306.jpg",
+        "prompt": "There are sockets. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are sockets.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/307.jpg",
+        "prompt": "There is a kayak on the sea. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a kayak on the sea.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/308.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/309.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/310.jpg",
+        "prompt": "There is a flag. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a flag.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/311.jpg",
+        "prompt": "There is a sport camera. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a sport camera.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/312.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/313.jpg",
+        "prompt": "There is a tennis. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/314.jpg",
+        "prompt": "There is a camera. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a camera.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/315.jpg",
+        "prompt": "There is a tennis. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/316.jpg",
+        "prompt": "There is a tennis ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis ball.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/317.jpg",
+        "prompt": "There are traffic lights. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are traffic lights.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/318.jpg",
+        "prompt": "There are some fruits. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some fruits.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/319.jpg",
+        "prompt": "There is a baseball bat. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a baseball bat.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/320.jpg",
+        "prompt": "There are kites. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are kites.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/321.jpg",
+        "prompt": "There are bicycles. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are bicycles.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/322.jpg",
+        "prompt": "There is a fishing rod. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a fishing rod.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/323.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/324.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/325.jpg",
+        "prompt": "There are some men. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some men.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/326.jpg",
+        "prompt": "There are bananas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are bananas.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/327.jpg",
+        "prompt": "There is a ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ball.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/328.jpg",
+        "prompt": "There is a ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ball.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/329.jpg",
+        "prompt": "There are birds. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are birds.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/330.jpg",
+        "prompt": "There is a watch. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a watch.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/331.jpg",
+        "prompt": "There is a cat. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cat.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/332.jpg",
+        "prompt": "There is a snowboard. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a snowboard.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/333.jpg",
+        "prompt": "There is a traffic cone. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a traffic cone.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/334.jpg",
+        "prompt": "There is a ring. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ring.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/335.jpg",
+        "prompt": "There is a white shoe. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a white shoe.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/336.jpg",
+        "prompt": "There is a toothbrush. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a toothbrush.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/337.jpg",
+        "prompt": "There is a shopping bag. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a shopping bag.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/338.jpg",
+        "prompt": "There are some cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/339.jpg",
+        "prompt": "There is a goblet. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a goblet.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/340.jpg",
+        "prompt": "There are some scissors. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some scissors.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/341.jpg",
+        "prompt": "There is a pair of slippers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pair of slippers.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/342.jpg",
+        "prompt": "There is a baby carriage. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a baby carriage.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/343.jpg",
+        "prompt": "There is a fork. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a fork.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/344.jpg",
+        "prompt": "There is a pair of slippers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pair of slippers.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/345.jpg",
+        "prompt": "There are some chairs. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some chairs.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/346.jpg",
+        "prompt": "There are some pens. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some pens.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/347.jpg",
+        "prompt": "There is a ring. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ring.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/348.jpg",
+        "prompt": "There is a cup. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/349.jpg",
+        "prompt": "There is a painting knife. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a painting knife.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/350.jpg",
+        "prompt": "There is a pair of pliers. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pair of pliers.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/351.jpg",
+        "prompt": "There is a traffic cone. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a traffic cone.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/352.jpg",
+        "prompt": "There is a eraser. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a eraser.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/353.jpg",
+        "prompt": "There is a matchstick. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a matchstick.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/354.jpg",
+        "prompt": "There is a cup. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/355.jpg",
+        "prompt": "There is a roller brush. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a roller brush.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/356.jpg",
+        "prompt": "There is a finger ring. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a finger ring.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/357.jpg",
+        "prompt": "There is a pair of earrings. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pair of earrings.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/358.jpg",
+        "prompt": "There is a glove. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a glove.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/359.jpg",
+        "prompt": "There is a bucket. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a bucket.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/360.jpg",
+        "prompt": "There are some bottles of water. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some bottles of water.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/361.jpg",
+        "prompt": "There is a cigarette. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cigarette.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/362.jpg",
+        "prompt": "There are some forks. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some forks.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/363.jpg",
+        "prompt": "There is a hammer. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a hammer.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/364.jpg",
+        "prompt": "There is a spoon. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a spoon.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/365.jpg",
+        "prompt": "There is a clamp. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a clamp.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/366.jpg",
+        "prompt": "There are some data cables. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some data cables.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/367.jpg",
+        "prompt": "There is a phone. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a phone.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/368.jpg",
+        "prompt": "There is a traffic light. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a traffic light.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/369.jpg",
+        "prompt": "There are some cars. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some cars.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/370.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/371.jpg",
+        "prompt": "There is a camera. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a camera.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/372.jpg",
+        "prompt": "There are some chess pieces. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some chess pieces.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/373.jpg",
+        "prompt": "There are some chess pieces. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some chess pieces.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/374.jpg",
+        "prompt": "There are some keys. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some keys.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/375.jpg",
+        "prompt": "There are some toothpicks. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some toothpicks.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/376.jpg",
+        "prompt": "There is a pen. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pen.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/377.jpg",
+        "prompt": "There is a phone. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a phone.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/378.jpg",
+        "prompt": "There is a fork. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a fork.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/379.jpg",
+        "prompt": "There are some forks. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some forks.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/380.jpg",
+        "prompt": "There are some beverages. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some beverages.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/381.jpg",
+        "prompt": "There are some boats. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some boats.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/382.jpg",
+        "prompt": "There is eyeliner. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is eyeliner.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/383.jpg",
+        "prompt": "There are some goblets. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some goblets.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/384.jpg",
+        "prompt": "There is a cup of drink. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cup of drink.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/385.jpg",
+        "prompt": "There is a mouse. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a mouse.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/386.jpg",
+        "prompt": "There are some bananas. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some bananas.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/387.jpg",
+        "prompt": "There is a person. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a person.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/388.jpg",
+        "prompt": "There are some backpacks. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some backpacks.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/389.jpg",
+        "prompt": "There is a backpack. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a backpack.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/390.jpg",
+        "prompt": "There are some candies. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some candies.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/391.jpg",
+        "prompt": "There are some sheep. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some sheep.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/392.jpg",
+        "prompt": "There are some chess pieces. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some chess pieces.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/393.jpg",
+        "prompt": "There are some houses. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some houses.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/394.jpg",
+        "prompt": "There is a tennis ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis ball.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/395.jpg",
+        "prompt": "There is a cigarette. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a cigarette.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/396.jpg",
+        "prompt": "There are some people. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some people.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/397.jpg",
+        "prompt": "There is a tennis ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a tennis ball.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/398.jpg",
+        "prompt": "There is a ball. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a ball.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/399.jpg",
+        "prompt": "There is a pen. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there is a pen.",
+        "class": "hard_tiny"
+    },
+    {
+        "image": "hard_images/400.jpg",
+        "prompt": "There are some toys. Is this description correct? If you don't know the answer, you can say 'I don't know'.",
+        "label": "Yes, there are some toys.",
+        "class": "hard_tiny"
+    }
+]
