@@ -20,20 +20,4 @@ LanpHal: Rethinking the Impact of Language Priors on Hallucinations in Large Vis
 ## Step 3: Evaluate LVLMs
 
 ## Acknowledgement
-Our code is based on [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). Thanks for their fantastic work!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Acknowledgement
 Our code is mainly based on [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). We appreciate them for making their codes available to the public.
