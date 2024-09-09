@@ -1,14 +1,13 @@
-# RePLUS: Revisiting the Role of Language Priors in Large Vision-Language Models' Hallucinations
+# LanpHal: Rethinking the Impact of Language Priors on Hallucinations in Large Vision-Language Models
 
-[**🌐 Project Website**](https://wzongyu.github.io/RePLUS/) |  [**🤗 HF Dataset**](https://huggingface.co/datasets/ZongyuWu/RePlus)
+[**🌐 Project Website**](https://wu-zongyu.github.io/LanpHal/) |  [**🤗 HF Dataset**](https://huggingface.co/datasets/ZongyuWu/LanpHal)
 
 <!-- [**📖 arXiv**]() | -->
 
 
 
 This repo contains the dataset and evaluation code for our paper:   
-RePLUS: Revisiting the Role of Language Priors in Large Vision-Language Models' Hallucinations
-<!--[RePLUS: Revisiting the Role of Language Priors in Large Vision-Language Models' Hallucinations]().-->
+LanpHal: Rethinking the Impact of Language Priors on Hallucinations in Large Vision-Language Models.
 
 
 ## Step 1: Data and Code Architecture
@@ -20,6 +19,8 @@ RePLUS: Revisiting the Role of Language Priors in Large Vision-Language Models' 
 
 ## Step 3: Evaluate LVLMs
 
+## Acknowledgement
+Our code is based on [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). Thanks for their fantastic work!
 
 
 
